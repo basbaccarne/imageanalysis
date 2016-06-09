@@ -4,7 +4,7 @@
 # inspired by:
 # http://www.r-bloggers.com/analyze-face-emotions-with-r/
 
-# a Microsoft accound is required:
+# a Microsoft account is required:
 # https://login.live.com/
 
 # you need to provice 'Cognitive Sites" access your account
